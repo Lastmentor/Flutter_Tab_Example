@@ -1,2 +1,8 @@
-# Flutter_Tab_Example
-This is an example about creating tabs in Flutter 
+# flutter_tab_example
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
