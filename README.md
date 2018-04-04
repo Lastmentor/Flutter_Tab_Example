@@ -1,8 +1,6 @@
-# flutter_tab_example
+# Flutter Tab Example
 
 A new Flutter project.
 
-## Getting Started
+![resim1](https://user-images.githubusercontent.com/23746859/38314297-2227756c-3826-11e8-9568-ef0b38c69ca1.png)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
